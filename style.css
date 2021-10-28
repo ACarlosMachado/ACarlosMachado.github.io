@@ -1,0 +1,17 @@
+body{
+    background-color: wheat;
+}
+.Destaques{ 
+    background-color: tomato; 
+
+}
+h1{
+    background-color: tomato;
+    text-align: center;
+}
+h2{
+    font-style: italic; 
+}
+#sonhador{
+    font-size: 20px;
+}
